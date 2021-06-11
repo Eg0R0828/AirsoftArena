@@ -1,0 +1,200 @@
+fileFormatVersion: 2
+guid: a1ebb76c7eeb85943a36e33be830b54f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Battery
+    100002: Body
+    100004: Bolt
+    100006: Butt_AK74
+    100008: Connector
+    100010: Dovetail
+    100012: FireMode
+    100014: Forend_AK47
+    100016: Forend_AK74
+    100018: Forend_AK74M
+    100020: MagDownPart
+    100022: MainPart
+    100024: MetalParts
+    100026: PistolGrip_AK
+    100028: ReceiverCover
+    100030: //RootNode
+    100032: Wire_black
+    100034: Wire_red
+    100036: Forend_AK74M_1
+    100038: LightGlass
+    100040: TacticalFlashLight
+    400000: Battery
+    400002: Body
+    400004: Bolt
+    400006: Butt_AK74
+    400008: Connector
+    400010: Dovetail
+    400012: FireMode
+    400014: Forend_AK47
+    400016: Forend_AK74
+    400018: Forend_AK74M
+    400020: MagDownPart
+    400022: MainPart
+    400024: MetalParts
+    400026: PistolGrip_AK
+    400028: ReceiverCover
+    400030: //RootNode
+    400032: Wire_black
+    400034: Wire_red
+    400036: Forend_AK74M_1
+    400038: LightGlass
+    400040: TacticalFlashLight
+    2100000: 'Material #40'
+    2100002: 'Material #34'
+    2100004: No Name
+    2100006: 'Material #33'
+    2100008: AKCROM
+    2100010: AKMETL
+    2100012: AKWOOD
+    2300000: Battery
+    2300002: Body
+    2300004: Bolt
+    2300006: Butt_AK74
+    2300008: Connector
+    2300010: Dovetail
+    2300012: FireMode
+    2300014: Forend_AK47
+    2300016: Forend_AK74
+    2300018: Forend_AK74M
+    2300020: MagDownPart
+    2300022: MainPart
+    2300024: MetalParts
+    2300026: PistolGrip_AK
+    2300028: ReceiverCover
+    2300030: Wire_black
+    2300032: Wire_red
+    2300034: Forend_AK74M_1
+    2300036: LightGlass
+    2300038: TacticalFlashLight
+    3300000: Battery
+    3300002: Body
+    3300004: Bolt
+    3300006: Butt_AK74
+    3300008: Connector
+    3300010: Dovetail
+    3300012: FireMode
+    3300014: Forend_AK47
+    3300016: Forend_AK74
+    3300018: Forend_AK74M
+    3300020: MagDownPart
+    3300022: MainPart
+    3300024: MetalParts
+    3300026: PistolGrip_AK
+    3300028: ReceiverCover
+    3300030: Wire_black
+    3300032: Wire_red
+    3300034: Forend_AK74M_1
+    3300036: LightGlass
+    3300038: TacticalFlashLight
+    4300000: Body
+    4300002: Bolt
+    4300004: FireMode
+    4300006: ReceiverCover
+    4300008: Battery
+    4300010: Connector
+    4300012: Wire_black
+    4300014: Wire_red
+    4300016: Butt_AK74
+    4300018: MetalParts
+    4300020: Dovetail
+    4300022: Forend_AK47
+    4300024: Forend_AK74
+    4300026: Forend_AK74M
+    4300028: MainPart
+    4300030: MagDownPart
+    4300032: PistolGrip_AK
+    4300034: Forend_AK74M_1
+    4300036: TacticalFlashLight
+    4300038: LightGlass
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
